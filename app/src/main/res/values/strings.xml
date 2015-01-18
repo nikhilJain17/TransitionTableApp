@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Boolean Equation Generator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_two_flip_flops">Two Flip Flops Transition Table</string>
+    <string name="title_activity_kmap_minimizer">Karnaugh Minimizer</string>
+
+</resources>
